@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48300283540",
+    "project_id": "exam5reactnative",
+    "storage_bucket": "exam5reactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48300283540:android:385f6a9e7bf36e3d2d8681",
+        "android_client_info": {
+          "package_name": "com.laporansiskamling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48300283540-hrm5f2f6tdf43f7l1h5jvb4oju3beklp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlgRx35hTK-Wa2H0xVE6Vmwcer-TFn0VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48300283540-hrm5f2f6tdf43f7l1h5jvb4oju3beklp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
